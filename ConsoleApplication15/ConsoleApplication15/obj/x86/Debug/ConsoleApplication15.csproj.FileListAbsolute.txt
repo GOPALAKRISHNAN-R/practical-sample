@@ -1,0 +1,5 @@
+D:\csharp\ConsoleApplication15\ConsoleApplication15\bin\Debug\ConsoleApplication15.exe
+D:\csharp\ConsoleApplication15\ConsoleApplication15\bin\Debug\ConsoleApplication15.pdb
+D:\csharp\ConsoleApplication15\ConsoleApplication15\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\csharp\ConsoleApplication15\ConsoleApplication15\obj\x86\Debug\ConsoleApplication15.exe
+D:\csharp\ConsoleApplication15\ConsoleApplication15\obj\x86\Debug\ConsoleApplication15.pdb
